@@ -1,0 +1,44 @@
+
+body{
+    background-color: white;
+    padding: 0%;
+}
+
+
+h1{
+    background-color: rgb(58, 57, 57);
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman',sans-serif;
+}
+.parte_uno{
+   color: black;
+   display: flex;
+}
+
+
+h2{
+    background-color: rgb(56, 55, 55);
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman',sans-serif;
+}
+.parte_dos{
+    color: black;
+    align-items: center;
+    display: flex;
+}
+
+
+h3{
+    background-color: rgb(70, 68, 68);
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman',sans-serif;
+}
+
+.parte_tres{
+    color: black;
+    align-items: self-end;
+    display: flex;
+}
